@@ -10,3 +10,5 @@ Aternos is a free server provider for minecraft. It provide players a free realm
 [click here to visit official site.](https://aternos.org/:en/)
 
 ## Application Preview
+
+<img src="screenshots/s_1.jpeg" alt="drawing" width="200"/>  <img src="screenshots/s_2.jpeg" alt="drawing" width="200"/> <img src="screenshots/s_3.jpeg" alt="drawing" width="200"/> <img src="screenshots/s_4.jpeg" alt="drawing" width="200"/>
