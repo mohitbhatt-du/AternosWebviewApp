@@ -17,4 +17,4 @@ Aternos is a free server provider for minecraft. It provide players a free realm
 I do not own any copyright of aternos. It is just a webview application for accessing aternos server directly to your android device without vsiting to official site in external browser.
 
 ### Status - BETA
-Many optimization and features may come in future.
+Many optimizations and features may come in future.
